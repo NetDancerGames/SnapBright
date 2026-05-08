@@ -5,6 +5,7 @@ A lightweight Windows tool to manage your screens without slowing down your PC.
 Designed to be simple, fast, and easy on your eyes.
  
 
+
 **<u>Features:</u>**
 
 **Granular Brightness Control**: Take full command of your screen with precise brightness adjustments that work independently across both SDR and HDR modes.
