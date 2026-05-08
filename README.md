@@ -1,6 +1,7 @@
 **<u>SnapBright</u>**
 
-A lightweight Windows tool to manage your screens without slowing down your PC. It’s designed to be simple, fast, and easy on your eyes.
+A lightweight Windows tool to manage your screens without slowing down your PC.
+Designed to be simple, fast, and easy on your eyes.
 
  
 
