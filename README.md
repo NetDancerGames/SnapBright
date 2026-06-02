@@ -6,14 +6,17 @@ Designed to be **simple**, **fast**, and **easy on your eyes**.
 <h4>Granular Brightness Control</h4>
 Take full command of your screen with precise brightness adjustments that work independently across both SDR and HDR modes.
 
-<h4>Sharpness Control</h4>
+<h4>Sharpness Slider</h4>
 Enhance your monitor's sharpness with ease (only for compatible models).
 
-<h4>Smart Bypass Mode</h4>
-An exclusive, optional feature that automatically restores original brightness and color values when you open full-screen apps or videos for an untouched viewing experience.
+<h4>One-click HDR Switch</h4>
+Toggle between SDR and HDR modes effortlessly while maintaining your image adjustments.
 
 <h4>Blue Light Filtering</h4>
 Built-in Reading and Night modes to help reduce eye strain and improve your sleep.
+
+<h4>Smart Bypass Mode</h4>
+An exclusive, optional feature that automatically restores original brightness and color values when you open full-screen apps or videos for an untouched viewing experience.
 
 <h4>Zero Lag</h4>
 Minimal CPU and RAM footprint. You won’t even notice it’s running in the background.
