@@ -7,7 +7,7 @@ Designed to be **simple**, **fast**, and **easy on your eyes**.
 Take full command of your screen with precise brightness adjustments that work independently across both SDR and HDR modes.
 
 <h4>Sharpness Slider</h4>
-Enhance your monitor's sharpness with ease (only for compatible models).
+Enhance your monitor's sharpness with ease (only in compatible models).
 
 <h4>One-click HDR Switch</h4>
 Toggle between SDR and HDR modes effortlessly while maintaining your image adjustments.
