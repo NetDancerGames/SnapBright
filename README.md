@@ -25,5 +25,4 @@ Easily turn off monitors with a single click to save energy or reduce distractio
 
 <h4>Clean & Simple</h4>
 No bloatware or complicated menus, just the tools you need to stay comfortable while you work or play.
-
-<p ><br><img width="322" height="161" alt="image" src="https://github.com/user-attachments/assets/a4c2825c-1778-4bc1-beef-3c15dc00548a" /></p>
+<img width="800" height="161" alt="image" src="https://github.com/user-attachments/assets/54319806-277c-49a8-a9ef-450d6484194d" />
