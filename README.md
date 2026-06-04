@@ -1,10 +1,10 @@
 **<h1>SnapBright</h1>**
-A lightweight Windows tool to manage your screens without slowing down your PC.<br>
+A lightweight Windows tool to manage your monitors.<br>
 Designed to be **simple**, **fast**, and **easy on your eyes**.
  
 <h3>Features:</h3>
 <h4>Granular Brightness Control</h4>
-Take full command of your screen with precise brightness adjustments that work across both SDR and HDR modes.
+Take full command of your screens with precise brightness adjustments that work across both SDR and HDR modes.
 
 <h4>Sharpness Slider</h4>
 Enhance your monitor's sharpness with ease (only on compatible models).
