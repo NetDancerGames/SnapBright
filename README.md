@@ -1,7 +1,6 @@
 **<h1>SnapBright</h1>**
-A lightweight Windows tool to manage your monitors.<br>
-Designed to be **simple**, **fast**, and **easy on your eyes**.
- 
+A lightweight Windows tool to manage your monitors. Designed to be **simple**, **fast**, and **easy on your eyes**.<br>
+
 <h3>Features:</h3>
 <h4>Granular Brightness Control</h4>
 Take full command of your screens with precise brightness adjustments that work across both SDR and HDR modes.
@@ -26,3 +25,5 @@ Easily turn off monitors with a single click to save energy or reduce distractio
 
 <h4>Clean & Simple</h4>
 No bloatware or complicated menus, just the tools you need to stay comfortable while you work or play.
+
+<p ><br><img width="322" height="161" alt="image" src="https://github.com/user-attachments/assets/a4c2825c-1778-4bc1-beef-3c15dc00548a" /></p>
