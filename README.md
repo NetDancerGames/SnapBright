@@ -7,9 +7,9 @@ Designed to be **simple**, **fast**, and **easy on your eyes**.
 Take full command of your screens with precise brightness adjustments that work across both SDR and HDR modes.
 
 <h4>Sharpness Slider</h4>
-Enhance your monitor's sharpness with ease (only on compatible models).
+Enhance your monitor's sharpness with ease (compatible models only).
 
-<h4>One-click HDR Switch</h4>
+<h4>One-Click HDR Switch</h4>
 Toggle between SDR and HDR modes effortlessly while maintaining your image adjustments.
 
 <h4>Blue Light Filtering</h4>
@@ -22,7 +22,7 @@ An exclusive, optional feature that automatically restores original image values
 Minimal CPU and RAM footprint. You won’t even notice it’s running in the background.
 
 <h4>Quick Power Control</h4>
-Easily turn off monitors with a click to save energy or reduce distractions.
+Easily turn off monitors with a single click to save energy or reduce distractions.
 
 <h4>Clean & Simple</h4>
 No bloatware or complicated menus, just the tools you need to stay comfortable while you work or play.
