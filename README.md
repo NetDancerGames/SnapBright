@@ -17,6 +17,9 @@ Built-in Reading and Night modes to help reduce eye strain and improve your slee
 <h4>Smart Bypass Mode</h4>
 An exclusive, optional feature that automatically restores original image values when you open full-screen apps, games, and videos for an untouched viewing experience.
 
+<h4>Keep Awake Mode</h4>
+Keep the monitor constantly active and prevent AFK imperceptibly moving the mouse at random intervals (between 50 and 59 seconds of inactivity).
+
 <h4>Zero Lag</h4>
 Minimal CPU and RAM footprint. You won’t even notice it’s running in the background.
 
